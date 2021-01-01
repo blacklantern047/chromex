@@ -1,1 +1,1 @@
-web: npm i -g @loopback/cli && node .
+web: npm start
